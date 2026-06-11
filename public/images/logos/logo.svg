@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="106" height="38" viewBox="0 0 106 38">
+  <defs>
+    <style bx:fonts="Alata">@import url(https://fonts.googleapis.com/css2?family=Alata%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
+  </defs>
+  <path id="Rounded_Rectangle_698" data-name="Rounded Rectangle 698" class="cls-2" d="M 38.829 186.214 C 52.507 186.223 63.595 197.311 63.608 210.991 L 63.608 287.637 C 63.608 306.707 42.956 318.631 26.438 309.093 C 18.772 304.669 14.053 296.489 14.053 287.637 L 14.053 210.991 C 14.066 197.311 25.149 186.223 38.829 186.214 Z" style="fill: rgb(251, 150, 120); fill-rule: evenodd; stroke: rgb(251, 150, 120);"/>
+  <rect id="Rounded_Rectangle_699" data-name="Rounded Rectangle 699" class="cls-3" x="14.775" y="181.648" width="105.08" height="50.438" rx="6" ry="6" style="fill: rgb(3, 201, 215); stroke: rgb(3, 201, 215);"/>
+  <circle class="cls-4" cx="93.386" cy="269.785" r="26.598" style="fill: rgb(254, 201, 15); stroke: rgb(254, 201, 15);"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Alata; font-size: 105.1px; white-space: pre;" x="163.808" y="284.682">Foodia</text>
+</svg>

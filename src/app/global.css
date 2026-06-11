@@ -1,0 +1,145 @@
+::-webkit-scrollbar:horizontal {
+  height: 0;
+  width: 0;
+  display: none;
+}
+
+::-webkit-scrollbar-thumb:horizontal {
+  display: none;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: rgb(216, 216, 216);
+  /* border-radius: 40px; */
+}
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+.arrow_box {
+  gap: 5px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  background-color: #373d3f;
+  color: white;
+  border: none;
+}
+
+.revenueTooltip {
+  gap: 5px;
+  display: flex;
+  font-size: small;
+}
+
+.foodsTooltip {
+  gap: 5px;
+  display: flex;
+  font-size: smaller;
+}
+
+.swal2-html-container {
+  font-weight: bold !important;
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 10px !important;
+}
+
+.swal2-html-container p {
+  padding-left: 10px !important;
+  font-weight: normal !important;
+  text-align: left;
+}
+
+.swal2-actions {
+  margin: 0 !important;
+  /* padding: 10px !important; */
+  padding-top: 5px !important;
+  padding-bottom: 0 !important;
+}
+
+.toast-padding-top {
+  margin-top: 70px !important; /* Adjust as needed */
+  height: 80px !important;
+  width: auto !important;
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+}
+
+.custom-swal {
+  padding: 0;
+  /* padding-top: 10px; */
+  width: auto !important;
+  font-size: small;
+  padding-bottom: 10px;
+  border-radius: 15px;
+  display: flex !important;
+  flex-direction: column;
+  gap: 30px !important;
+}
+
+.custom-title-swal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  padding-top: 5px;
+  height: 25px;
+  font-size: large;
+  color: #3fb648;
+  font-weight: bolder;
+  /* width: 210px; */
+}
+
+.custom-confirm-button-swal {
+  padding: 0;
+  height: 40px;
+  width: 100px;
+  border-radius: 12px !important;
+  border: 2px solid #3fb648 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  font-weight: bold;
+  color: #3fb648 !important;
+}
+
+.custom-cancel-button-swal {
+  padding: 0;
+  height: 40px;
+  width: 100px;
+  border-radius: 12px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  font-weight: bold;
+}
+
+/* .text-cancel-button {
+  
+} */
+
+.buttonAlert {
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 56px;
+  background: #3fb648;
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  border-radius: 15px;
+  gap: 10px;
+  border: 0px;
+}
+.buttonAlert:hover {
+  background-color: #2f8e3f; /* New background color on hover */
+  cursor: pointer;
+}
+
+.manual-pagination {
+  background-color: gray;
+}
